@@ -8,3 +8,4 @@ Here are some Leetcode questions i've done.
 <a href="https://leetcode.com/problems/build-array-from-permutation/">1920. Build Array From Permutation</a> <br />
 <a href="https://leetcode.com/problems/concatenation-of-array/">1929. Concatenation of Array</a> <br />
 <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations">2011. Final Value of Variable After Performing Operations</a> <br />
+<a href="https://leetcode.com/problems/running-sum-of-1d-array">1480. Running Sum of 1d Array</a> <br />
