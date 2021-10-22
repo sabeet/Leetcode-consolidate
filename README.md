@@ -11,3 +11,5 @@ Here are some Leetcode questions i've done.
 <a href="https://leetcode.com/problems/running-sum-of-1d-array">1480. Running Sum of 1d Array</a> <br />
 <a href="https://leetcode.com/problems/richest-customer-wealth">1672. Richest Customer Wealth</a> <br />
 <a href="https://leetcode.com/problems/shuffle-the-array">1470. Shuffle the Array</a> <br />
+<a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies">1431. Kids With the Greatest Number of Candies</a> <br />
+
