@@ -12,4 +12,4 @@ Here are some Leetcode questions i've done.
 <a href="https://leetcode.com/problems/richest-customer-wealth">1672. Richest Customer Wealth</a> <br />
 <a href="https://leetcode.com/problems/shuffle-the-array">1470. Shuffle the Array</a> <br />
 <a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies">1431. Kids With the Greatest Number of Candies</a> <br />
-
+<a href="https://leetcode.com/problems/number-of-good-pairs">1512. Number of Good Pairs</a> <br />
