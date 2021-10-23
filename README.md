@@ -13,3 +13,4 @@ Here are some Leetcode questions i've done.
 <a href="https://leetcode.com/problems/shuffle-the-array">1470. Shuffle the Array</a> <br />
 <a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies">1431. Kids With the Greatest Number of Candies</a> <br />
 <a href="https://leetcode.com/problems/number-of-good-pairs">1512. Number of Good Pairs</a> <br />
+<a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">1365. How Many Numbers Are Smaller Than the Current Number</a> <br />
