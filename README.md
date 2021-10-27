@@ -1,7 +1,7 @@
 "# Leetcode-consolidate"
 
-Here are some Leetcode questions i've done. 
-<!-- <a href="https://leetcode.com/problems/"></a> <br /> -->
+Here are some Leetcode questions i've done.
+<!-- <a href="https://leetcode.com/problems/"> </a> <br /> -->
 <a href="https://leetcode.com/problems/power-of-three/">326.&emsp;Power Of Three</a> <br />
 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">26. &emsp; Remove Duplicates from Sorted Array</a> <br />
 <a href="https://leetcode.com/problems/remove-element/ ">27.  &emsp;    Remove Element </a> <br />
